@@ -1,0 +1,21 @@
+{
+    "go.lintTool": "golangci-lint",
+    "go.formatTool": "goimports",
+    "files.autoSave": "afterDelay",
+    "gopls": {
+        "build.allowModfileModifications": true
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnSave": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false
+    },
+    "window.zoomLevel": 1,
+    "terminal.integrated.scrollback": 100000
+}
